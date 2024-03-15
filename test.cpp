@@ -2,5 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"radhe radhe";
+    cout<<"radhe radhe\n";
+    cout<<"hello";
+
 }
